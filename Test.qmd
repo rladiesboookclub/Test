@@ -1,0 +1,10 @@
+---
+title: "Test"
+format: 
+  html: 
+    embed-resources: true
+---
+
+# Just an example
+
+![](confused.gif)
